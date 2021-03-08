@@ -11,7 +11,7 @@ How to create valid proposal
 8. Previous Work github link to previus proposal ( if non exist put None ).
 9. A maximum detailed as possible description of the proposal and what it encompasses.
 11. Make Pull requests.
-12. Send you proposal to [Discord](https://discord.gg/HKbdGANbZA) at chanel proposals.
+12. Send you proposal to [Discord](https://discord.gg/ZeUMV2kcaQ) at chanel proposals.
 13. review.
 
 as exmample
