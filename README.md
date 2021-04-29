@@ -1,25 +1,28 @@
 # Proposals
-How to create valid proposal
+How to create a valid proposal
 
 1. Fork this repo.
-2. Create new folder with name of block proposoal and/or add to exist new file.
-3. Proposal name how it named at wallet.
-4. URL of your github from what you merge this proposoal.
-5. Owner - The name or party of who is responsible for working on this proposal. The person(s) should be involved in the creation of this proposal.
-6. The amount of SCA being requested and the associated dollar if applicable.
-7. The voting [hash].
-8. Previous Work github link to previus proposal ( if non exist put None ).
-9. A maximum detailed as possible description of the proposal and what it encompasses.
-11. Make Pull requests.
-12. Send you proposal to [Discord](https://discord.gg/ZeUMV2kcaQ) at chanel proposals.
-13. review.
+2. Create new folder with same name as the next superblock if it doesn't already exist. 
+3. Then create in that folder a markdown file with the same name as the proposal. The file should contain:
 
-as exmample
+* Name: Proposal name, as shown in the wallet.
+* Link: URL of the proposal description in your Github repo. This will probably be too long for direct inclusion so you'll need to use a URL shortener (eg: bit.ly) 
+* Owner: The name or party of who is responsible for working on this proposal. The person(s) should be involved in the creation of this proposal.
+* Amount: The amount of SCA being requested and the associated dollar amount if applicable.
+* Hash: The voting hash. This is not the same as the proposal creation transaction hash. 
+* Previous Work:  Github link to previous proposals ( if no previous work put None ).
+* Overview: As detailed as possible description of the proposal and what it encompasses.
 
-example at wallet( this not need add to github!)
 
-![proposoal](https://user-images.githubusercontent.com/32709596/110054174-4ce14c80-7d63-11eb-9872-ac265415cf28.png)
+4. Create a Pull Request.
+5. Announce your proposal in the channel #proposal-overview at [Discord](https://discord.gg/ZeUMV2kcaQ).
 
-example at gitgub
+# Example
+
+## example at wallet (you don't need to add this to Github!)
+
+![proposal](https://user-images.githubusercontent.com/32709596/110054174-4ce14c80-7d63-11eb-9872-ac265415cf28.png)
+
+## example at Github
 
 https://github.com/scalaris-project/proposals/blob/master/2000/Qt-Exchange-Widget.md
