@@ -23,4 +23,4 @@ example at wallet( this not need add to github!)
 
 example at gitgub
 
-https://github.com/scalaris-project/proposals/blob/master/2000/Qt-Exchange-Widget.md
+https://github.com/scalaris-project/proposals/tree/master/2000/Qt-Exchange-Widget
