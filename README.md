@@ -11,9 +11,10 @@ How to create valid proposal
 8. Previous Work github link to previus proposal ( if non exist put None ).
 9. A maximum detailed as possible description of the proposal and what it encompasses.
 10. You can create at proposal folder more detailed descryption as extra file.
-11. Make Pull requests.
-12. Send you proposal to [Discord](https://discord.gg/ZeUMV2kcaQ) at chanel proposals.
-13. review.
+11. Check if all your files have new line at end of file.
+12. Make Pull requests.
+13. Send you proposal to [Discord](https://discord.gg/ZeUMV2kcaQ) at chanel proposals.
+14. Review.
 
 as exmample
 
