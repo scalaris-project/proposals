@@ -13,12 +13,12 @@ How to create a valid proposal
 * Previous Work:  Github link to previous proposals ( if no previous work put None ).
 * Overview: As detailed as possible description of the proposal and what it encompasses.
 
+4. Create a Pull Request.
+5. Announce your proposal in the channel #proposal-overview at [Discord](https://discord.gg/ZeUMV2kcaQ).
+
 # Optional
 
 You can create at proposal folder more detailed file of descryption and license.
-
-4. Create a Pull Request.
-5. Announce your proposal in the channel #proposal-overview at [Discord](https://discord.gg/ZeUMV2kcaQ).
 
 # Example
 
