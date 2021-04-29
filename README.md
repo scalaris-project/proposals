@@ -2,7 +2,7 @@
 How to create a valid proposal
 
 1. Fork this repo.
-2. Create new folder with same name as the next superblock if it doesn't already exist. 
+2. Create new folder with same name as the next superblock if it doesn't already exist. And inside "superblock folder" create new folder with the same name as the you proposal.
 3. Then create in that folder a markdown file with the same name as the proposal. The file should contain:
 
 * Name: Proposal name, as shown in the wallet.
@@ -13,6 +13,9 @@ How to create a valid proposal
 * Previous Work:  Github link to previous proposals ( if no previous work put None ).
 * Overview: As detailed as possible description of the proposal and what it encompasses.
 
+#Optional
+
+You can create at proposal folder more detailed file of descryption and license.
 
 4. Create a Pull Request.
 5. Announce your proposal in the channel #proposal-overview at [Discord](https://discord.gg/ZeUMV2kcaQ).
@@ -25,4 +28,4 @@ How to create a valid proposal
 
 ## example at Github
 
-https://github.com/scalaris-project/proposals/blob/master/2000/Qt-Exchange-Widget.md
+https://github.com/scalaris-project/proposals/tree/master/2000/Qt-Exchange-Widget
