@@ -1,6 +1,6 @@
 ## Name: PlatformMonitor-02
 
-## Link: https://github.com/walkjivefly/proposals/blob/wjfp02/Platform-Monitor/Platform-Monitor.md
+## Link: https://github.com/walkjivefly/proposals/blob/master/210000/PlatformMonitor-02/PlatformMonitor-02.md
 
 ## Owner: walkjivefly
 
