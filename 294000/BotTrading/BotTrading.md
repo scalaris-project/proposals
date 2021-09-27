@@ -1,12 +1,12 @@
 ## Name: BotTrading
 
-## Link: https://github.com/walkjivefly/proposals/blob/master/294000/BotTrading/BotTrading.md
+## Link: https://github.com/walkjivefly/proposals/blob/wjfp03/294000/BotTrading/BotTrading.md
 
 ## Owner: walkjivefly
 
 ## Amount: 30000 SCA
 
-## Hash: xxxxx
+## Hash: 6e8151d7bd685b60414f9e3ab82311f8003308771b31bc8d28a09875814b2f96
 
 ## Previous Work: 
 * https://github.com/walkjivefly
